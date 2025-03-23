@@ -1,0 +1,13 @@
+{
+  "name": "sehar-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "serve",
+    "dev": "serve -l 3000",
+    "build": "echo 'no build script'"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
